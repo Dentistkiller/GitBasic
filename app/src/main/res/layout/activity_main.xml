@@ -16,10 +16,11 @@
         android:text="Yusuf" />
 
     <TextView
-        android:id="@+id/textView1"
+
+        android:id="@+id/textViewWifi"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="said
-the wifi is crap"
-        android:textSize="50dp" />
+        android:textSize="50dp"
+        android:text="This Wifi is Crap" />
+
 </LinearLayout>
